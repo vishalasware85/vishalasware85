@@ -35,4 +35,3 @@ I'm a passionate and versatile developer who loves to create amazing apps and we
 - LinkedIn - https://www.linkedin.com/in/vishal-asware-65949017a
 - Twitter - https://x.com/VAsware85
 - Instagram - https://www.instagram.com/vishal.asware
-- Facebook - https://www.facebook.com/VishalK.Asware
