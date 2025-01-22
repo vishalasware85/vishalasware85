@@ -13,7 +13,7 @@ I'm a passionate and versatile developer who loves to create amazing apps and we
 - Android Development
 - Full Stack Development
 - Backend Development
-- Frontend Development
+- Frontend Developmenthttps://twitter.com/asware_k
 - UI/UX Development
 - Kotlin
 - Java
@@ -32,7 +32,7 @@ I'm a passionate and versatile developer who loves to create amazing apps and we
 - Ruby
 
 ## 🙌 Let's Connect
-!LinkedIn - https://www.linkedin.com/in/vishal-asware-65949017a/
-!Twitter - https://twitter.com/asware_k
-!Instagram - https://www.instagram.com/vishal.asware/
-!Facebook - https://www.facebook.com/VishalK.Asware/
+!LinkedIn - https://www.linkedin.com/in/vishal-asware-65949017a.
+!Twitter - https://x.com/VAsware85.
+!Instagram - https://www.instagram.com/vishal.asware.
+!Facebook - https://www.facebook.com/VishalK.Asware.
